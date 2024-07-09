@@ -11,3 +11,4 @@ packaging==23.1
     # via build
 pyproject-hooks==1.0.0
     # via build
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
